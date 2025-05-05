@@ -26,7 +26,7 @@ Based on the analysis, I recommend the following actions
 - Improved Health Insurance Plans
 
 ### Limitations
-I used a very small dataset so the accuracy of my conclusions may not be exact.
+I used a tiny dataset, so the accuracy of my conclusions may not be exact.
 
 ### Use Case
 - Health policy analysts exploring financial equity
@@ -36,4 +36,5 @@ I used a very small dataset so the accuracy of my conclusions may not be exact.
 Created by **Tessy Afoma**, an optometrist and data analyst committed to making health data more transparent and actionable.
 
 ### Preview
-![Dashboard Preview](![Health Insurance and Your Eye - Dashboard](https://github.com/user-attachments/assets/3b1a4f9e-41fd-4015-ba4a-8bb5ee79eefd)
+![Dashboard Preview]![Health Insurance and Your Eye - Dashboard](https://github.com/user-attachments/assets/c0907496-18ef-4bfc-8f57-6697989ea60a)
+
